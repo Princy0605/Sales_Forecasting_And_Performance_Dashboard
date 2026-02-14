@@ -1,4 +1,11 @@
 # Sales_Forecasting_And_Performance_Dashboard
+
+## DATASET NOT UPLOADED
+The dataset is not included due to size limits.  
+Download it from Kaggle and place it in the `sales/` folder to run the notebook.
+
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+
 Project Name: Sales Forecasting & Performance Dashboard
 
 ## Description:
